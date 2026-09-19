@@ -1,4 +1,4 @@
-name: PostHog Docker Cache - 20x Parallel
+name: Docker Build
 
 # Concurrency test for the Ceph RBD docker cache using the (large) PostHog build.
 #
